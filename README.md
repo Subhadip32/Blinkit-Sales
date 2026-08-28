@@ -1,4 +1,4 @@
-# 🚀 Project Blinkit: Decoding $1.2M in Last-Minute Delivery Insights
+# Project Blinkit: Decoding $1.2M in Last-Minute Delivery Insights
 
 Welcome to the ultimate data-driven deep dive into **Blinkit (India's Last Minute App)**. This repository houses an enterprise-grade **Power BI Desktop Dashboard** engineered to track, stress-test, and optimize quick-commerce supply chains, product performance, and local market distributions.
 
