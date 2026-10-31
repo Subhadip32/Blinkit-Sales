@@ -2,6 +2,9 @@
 
 Welcome to the ultimate data-driven deep dive into **Blinkit (India's Last Minute App)**. This repository houses an enterprise-grade **Power BI Desktop Dashboard** engineered to track, stress-test, and optimize quick-commerce supply chains, product performance, and local market distributions.
 
+<img width="1308" height="743" alt="image" src="https://github.com/user-attachments/assets/1a3e7e09-b4cc-462c-a9e8-9eed331dfc70" />
+
+
 ---
 
 ## ⚡ The Quick-Commerce Snapshot
